@@ -1,0 +1,3 @@
+a). It prints 3 + 4
+b). It prints 7
+c). It prints 34
